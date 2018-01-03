@@ -8,3 +8,11 @@
 
 **Link to work:** <a href ="https://codepen.io/abbywilson/pen/vpgdOr?editors=1010">Random Quote Machine</a>
 
+### Day 1: January 2, 2018
+
+**Today's Progress**: Started working on the FreeCodeCamp challenge to build a weather app
+
+**Thoughts:** Was able to draft the intial html and css and get JS to prompt for the user's geolocaion; however, I've hit a roadblock with feeding the geolocation coordinates into the weather API. I can't even get them to display on the page!
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/QagRxY?editors=1011">Locak Weather</a>
+
