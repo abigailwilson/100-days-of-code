@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 3, 2018
+
+**Today's Progress**: Worked through 2 Codewars challenges
+
+**Thoughts:** Only did about 40 minutes of coding, but was able to complete one challenge and make good progress on another.
+
+**Link to work:** n/a
+
 ### Day 1: January 2, 2018
 
 **Today's Progress**: Started working on the FreeCodeCamp challenge to build a weather app
