@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 4, 2018
+
+**Today's Progress**: Completed 3 Codewars challenges and made progress on FreeCodeCamp Local Weather App
+
+**Thoughts:** I got both the geolocation and the weather API to work! Hurrah! Now the local weather displays in the app. I am trying to configure a reverse geocode lookup through a Google API to also display the user's city. I still need to make things pretty, but good progress!
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/QagRxY?editors=1011">Local Weather</a>
+
 ### Day 2: January 3, 2018
 
 **Today's Progress**: Worked through 2 Codewars challenges
