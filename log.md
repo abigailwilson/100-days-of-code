@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 5, 2018
+
+**Today's Progress**: Great day of progress! The weather app is almost complete, just need to solve an issue with a local variable to make the final effects work!
+
+**Thoughts:** Got the Google API to change the geocode to display the city/provice - nice! Also programmed the toggle switch that converts Celcius to Fahrenheit when it's clicled. Also did a lot of work on formatting and creating different effects for different types of weather.
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/QagRxY?editors=1011">Local Weather</a>
+
 ### Day 3: January 4, 2018
 
 **Today's Progress**: Completed 3 Codewars challenges and made progress on FreeCodeCamp Local Weather App
