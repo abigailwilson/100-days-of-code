@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 6, 2018
+
+**Today's Progress**: Finished the weather app and completed several Codewars katas. Also started the next FCC challenge - to build a Wikipedia viewer.
+
+**Thoughts:** Completed formatting the weather app and called it done! Also completed several challenging katas, including on that required learning about dates in JavaScript.
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/QagRxY?editors=1011">Local Weather</a>
+
 ### Day 4: January 5, 2018
 
 **Today's Progress**: Great day of progress! The weather app is almost complete, just need to solve an issue with a local variable to make the final effects work!
