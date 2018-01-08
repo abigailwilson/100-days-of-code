@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 7, 2018
+
+**Today's Progress**: Continued working on the Wikipedia viewer and solved another 6kyu CW Kata.
+
+**Thoughts:** This was one of those days with a lot of trouble-shooting and researching, and not a lot of visible progress. Once again, a lot of tweaking is required to get the API to work.
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/rpYrQO?editors=1010">Wikipedia Viewer</a>
+
 ### Day 5: January 6, 2018
 
 **Today's Progress**: Finished the weather app and completed several Codewars katas. Also started the next FCC challenge - to build a Wikipedia viewer.
