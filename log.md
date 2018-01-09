@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 8, 2018
+
+**Today's Progress**: Got the Wikipedia API working, woooo!
+
+**Thoughts:** The problem was silly me, trying to follow the documentation that warned a special header needed to be included in all API requests. Once I removed that, the request started returning data. Further formatting and tweaking is required!
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/rpYrQO?editors=1010">Wikipedia Viewer</a>
+
+
 ### Day 6: January 7, 2018
 
 **Today's Progress**: Continued working on the Wikipedia viewer and solved another 6kyu CW Kata.
