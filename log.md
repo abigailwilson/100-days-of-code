@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 8, 2018
+
+**Today's Progress**: More progress on the Wikipedia Viewer!
+
+**Thoughts:** Got an input field to appear when the "Search" button is clicked in the same spot. Getting close!
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/rpYrQO?editors=1010">Wikipedia Viewer</a>
+
 ### Day 7: January 8, 2018
 
 **Today's Progress**: Got the Wikipedia API working, woooo!
