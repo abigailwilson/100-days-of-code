@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 8: January 8, 2018
+### Day 10: January 11, 2018
+
+**Today's Progress**: Those last few tweaks...
+
+**Thoughts:** I want to improve the Wikipedia viewer so that a different colour is attached to each search result and makes a satisfying rainbow of awesomeness on the page. I also want the input field to be automatically active and the search button to engage upon keying 'enter'. Neither of these last UX tweaks are happening easily and I gave up after some time to do more Codewars.
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/rpYrQO?editors=1010">Wikipedia Viewer</a>
+
+### Day 9: January 10, 2018
+
+**Today's Progress**: The Wikipedia Viewer is functioning!
+
+**Thoughts:** Finally got things configured so the search term entered in the input field feeds into the API that calls to Wikipedia and brings back up to 10 search results in nicely styled boxes. I've checked all the boxes on the user stories!
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/rpYrQO?editors=1010">Wikipedia Viewer</a>
+
+### Day 8: January 9, 2018
 
 **Today's Progress**: More progress on the Wikipedia Viewer!
 
