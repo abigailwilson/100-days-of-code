@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 12, 2018
+
+**Today's Progress**: Wikipedia Vieweris done!
+
+**Thoughts:** I got those last few UX improvements working! The search form is now active and submits upon enter, and my beautiful rainbow of search results is working!
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/rpYrQO?editors=1010">Wikipedia Viewer</a>
+
 ### Day 10: January 11, 2018
 
 **Today's Progress**: Those last few tweaks...
