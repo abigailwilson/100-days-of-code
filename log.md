@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 14, 2018
+
+**Today's Progress**: Completed a level 5 kyu challenge on Codewars that required OOP! Also started the 4th FreeCodeCamp intermediate challenge - building a Twitch.tv streaming app.
+
+**Thoughts:** Did 2+ hours of coding! Made up for yesterday. The Twitch.tv API is no longer easily usable due to changes made by Twitch - FCC has provided a sample API get request to hardcode into a variable, so I feel like this might be easier than usual.
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/PEBpdm">Twitch TV Channel Streaming</a>
+
+### Day 12: January 13, 2018
+
+**Today's Progress**: 0
+
+**Thoughts:** Missed my hour of code today as I was out skiing. Will do two hours tomorrow!
+
+
 ### Day 11: January 12, 2018
 
 **Today's Progress**: Wikipedia Vieweris done!
