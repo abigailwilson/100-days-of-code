@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 15, 2018
+
+**Today's Progress**: Continued working on the Twitch.tv app for FCC.
+
+**Thoughts:** Was able to set up jquery so that it ran through the sample Twitch.tv API and created a new table row for each channel. Still working on formatting and setting up links.
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/PEBpdm">Twitch TV Channel Streaming</a>
+
 ### Day 13: January 14, 2018
 
 **Today's Progress**: Completed a level 5 kyu challenge on Codewars that required OOP! Also started the 4th FreeCodeCamp intermediate challenge - building a Twitch.tv streaming app.
