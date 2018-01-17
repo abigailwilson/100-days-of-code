@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 16, 2018
+
+**Today's Progress**: Finished the Twitch.tv app for FCC.
+
+**Thoughts:** Finished a few last formatting tweaks to improve the UI and sort the table. Also started working on some FCC algorithm challenges.
+
+**Link to work:** <a href ="https://codepen.io/abbywilson/pen/PEBpdm">Twitch TV Channel Streaming</a>
+
+
 ### Day 14: January 15, 2018
 
 **Today's Progress**: Continued working on the Twitch.tv app for FCC.
