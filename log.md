@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 18, 2018
+
+**Today's Progress**: Continued working on FCC algorithm challenges.
+
+**Thoughts:** Two hours of work... the roman numerals are slowly appearing! Also upgraded to 6yu on Codewars! Woo!
+
+**Link to work:** n/a
+
 ### Day 16: January 17, 2018
 
 **Today's Progress**: Continued working on FCC algorithm challenges.
