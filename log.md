@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 17, 2018
+
+**Today's Progress**: Continued working on FCC algorithm challenges.
+
+**Thoughts:** Tricky tricky challenge to convert numbers to roman numerals!
+
+**Link to work:** n/a
+
 ### Day 15: January 16, 2018
 
 **Today's Progress**: Finished the Twitch.tv app for FCC.
