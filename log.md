@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 19, 2018
+
+**Today's Progress**: Finished the FCC roman numerals challenge!
+
+**Thoughts:** Rewrote the entire thing to simplify! Finally got it working by grouping the numerals into sets associated with the index
+
+**Link to work:** n/a
+
 ### Day 17: January 18, 2018
 
 **Today's Progress**: Continued working on FCC algorithm challenges.
