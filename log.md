@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 20, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:** Worked on challenge that uses Javascript objects - my current weakness! Still trying to solve it...
+
+**Link to work:** n/a
+
 ### Day 18: January 19, 2018
 
 **Today's Progress**: Finished the FCC roman numerals challenge!
 
 **Thoughts:** Rewrote the entire thing to simplify! Finally got it working by grouping the numerals into sets associated with the index
 
-**Link to work:** n/a
+**Link to work:** <a href="https://gist.github.com/abigailwilson/83b854e6ea3ab48f90820f2a24ea8314">Roman Numerals Gist</a>
 
 ### Day 17: January 18, 2018
 
