@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 21, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:** Completed the challenge filtering an array of objects with another object. I struggled with the syntax on this one and had to dig through StackOverflow as well as look at the hints on FCC!
+
+**Link to work:** n/a
+
 ### Day 19: January 20, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
