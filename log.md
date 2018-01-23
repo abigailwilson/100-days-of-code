@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 22, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:** Completed the challenge using find/replace on a string. Started working on a challenge to convert words to Pig Latin.
+
+**Link to work:** n/a
+
 ### Day 20: January 21, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
