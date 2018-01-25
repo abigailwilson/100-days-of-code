@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 24, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:**  3 more challenges complete!
+
+**Link to work:** n/a
+
 ### Day 22: January 23, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
