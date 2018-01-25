@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 23, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:** Igpay atinlay allengechay ompletecay!
+
+**Link to work:** n/a
+
 ### Day 21: January 22, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
