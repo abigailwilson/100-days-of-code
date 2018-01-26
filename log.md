@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 25, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:**  Another challenge done, and reviewed some Big O Notation stuff.
+
+**Link to work:** n/a
+
 ### Day 23: January 24, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
