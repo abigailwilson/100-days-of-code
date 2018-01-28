@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 26, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:**  Another challenge done and one almost complete. RegEx's tend to be a weakness.
+
+**Link to work:** n/a
+
 ### Day 24: January 25, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
