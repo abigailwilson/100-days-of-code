@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: January 28, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:**  The challenges are getting harder! Also, I think I missed logging a day last week??
+
+**Link to work:** n/a
+
 ### Day 25: January 26, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
