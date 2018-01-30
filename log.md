@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: January 29, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
+**Thoughts:**  Still stuck on the Smallest Common Multiple challenge - was able to write through code that makes sense, but it isn't solving all of the test cases. Hmmm. Going to look at the recommended Eucildean algorithm tomorrow with a fresh brain.
+
+**Link to work:** n/a
+
 ### Day 27: January 28, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
