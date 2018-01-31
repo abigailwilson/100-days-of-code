@@ -4,6 +4,14 @@
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
 
+**Thoughts:**  Still stuck on the Smallest Common Multiple challenge!!! Tried a different strategy by breaking the numbers into their prime factors, but then created a different roadblock along the way. :(
+
+**Link to work:** n/a
+
+### Day 28: January 29, 2018
+
+**Today's Progress**: Continued intermediate FCC algorithm challenges.
+
 **Thoughts:**  Still stuck on the Smallest Common Multiple challenge - was able to write through code that makes sense, but it isn't solving all of the test cases. Hmmm. Going to look at the recommended Eucildean algorithm tomorrow with a fresh brain.
 
 **Link to work:** n/a
