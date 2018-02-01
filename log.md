@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 30: January 31, 2018
+
+Today's Progress: Continued intermediate FCC algorithm challenges.
+
+Thoughts: Feel like I've hit a real wall. Still cannot make progress on the Smallest Common challenge - looking through different solutions, none of them make sense the entire way through that I can understand how they were solved. :( Skipped ahead to work on other challenges.
+
+Link to work: n/a
+
+
+### Day 29: January 30, 2018
+
+Today's Progress: Continued intermediate FCC algorithm challenges.
+
+Thoughts: Spend an hour trying to get the prime factors approach to work for the Smallest Common challenge. No success.
+
+Link to work: n/a
+
 ### Day 28: January 29, 2018
 
 **Today's Progress**: Continued intermediate FCC algorithm challenges.
