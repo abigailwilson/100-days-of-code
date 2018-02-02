@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 1, 2018
+
+Today's Progress: Continued intermediate FCC algorithm challenges.
+
+Thoughts: Finished another challenge, and went back to the Smallest Common one. Feel like I have the right ideas, but I cannot get the syntax working to test them out. Still not solved!
+
+Link to work: n/a
+
 ### Day 30: January 31, 2018
 
 Today's Progress: Continued intermediate FCC algorithm challenges.
