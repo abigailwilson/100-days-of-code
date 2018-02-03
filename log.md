@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 2, 2018
+
+Today's Progress: Continued intermediate FCC algorithm challenges.
+
+Thoughts: Solved the Smallest Common achallenge! Definitely didn't do it all on my own - finally found an answer that made sense and I could reconstruct line by line.
+
+Link to work: n/a
+
 ### Day 31: February 1, 2018
 
 Today's Progress: Continued intermediate FCC algorithm challenges.
