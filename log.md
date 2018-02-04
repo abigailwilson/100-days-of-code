@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 3, 2018
+
+Today's Progress: Continued intermediate FCC algorithm challenges.
+
+Thoughts: Working on a challenge to convert a string of binary into a sentence - still having issues with syntax where I have a solution, but am not getting the syntax quite right to make it work. :S
+
+Link to work: n/a
+
 ### Day 32: February 2, 2018
 
 Today's Progress: Continued intermediate FCC algorithm challenges.
