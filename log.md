@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 4, 2018
+
+Today's Progress: Continued intermediate FCC algorithm challenges.
+
+Thoughts: Yay! Finished the binary challenge, completed another, and am now working on the final intermediate algorithm challenge! :D
+
+Link to work: n/a
+
 ### Day 33: February 3, 2018
 
 Today's Progress: Continued intermediate FCC algorithm challenges.
