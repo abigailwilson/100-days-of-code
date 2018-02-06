@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 5, 2018
+
+Today's Progress: Started advanced FCC algorithm challenges.
+
+Thoughts: Finished the last intermediate challenge and began the first advanced one - validating US phone number.
+
+Link to work: n/a
+
 ### Day 34: February 4, 2018
 
 Today's Progress: Continued intermediate FCC algorithm challenges.
