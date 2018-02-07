@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 6, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Got a regex tester involved now. Fingers crossed!
+
+Link to work: n/a
+
 ### Day 35: February 5, 2018
 
 Today's Progress: Started advanced FCC algorithm challenges.
