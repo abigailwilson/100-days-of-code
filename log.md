@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 37: February 7, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Got all but 2 of the tests passing now on the phone number validation. These last two are tricky to make false without making valid numbers false too!
+
+Link to work: n/a
+
 ### Day 36: February 6, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
