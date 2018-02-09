@@ -4,6 +4,14 @@
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
+Thoughts: Completed the phone numbers challenge! My solution wasn't very elegant as I couldn't get it completed only with a regex and resorted to some other things to validate the numbers, but it works. Also finished another challenge to manipulate JSON.
+
+Link to work: n/a
+
+### Day 37: February 7, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
 Thoughts: Got all but 2 of the tests passing now on the phone number validation. These last two are tricky to make false without making valid numbers false too!
 
 Link to work: n/a
