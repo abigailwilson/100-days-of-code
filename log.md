@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 38: February 8, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Working on a challenge to return Symmetric Difference of multiple arrays. It's been a disapointing week on the job front - a great Jr Dev job came up with company (entry level), and I was told they would not consider another location for it.
+
+Link to work: n/a
+
 ### Day 37: February 7, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
