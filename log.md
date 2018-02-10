@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 38: February 8, 2018
+### Day 39: February 9, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
@@ -8,7 +8,7 @@ Thoughts: Working on a challenge to return Symmetric Difference of multiple arra
 
 Link to work: n/a
 
-### Day 37: February 7, 2018
+### Day 38: February 8, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
