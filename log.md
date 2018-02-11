@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 40: February 10, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: So  thought I solved the Symmetric Difference challenge - but nope! My solution removed all values that appear more than once, which tecnically isn't a Symmetric Difference. Had to take a break and worked on a Code Wars challenge.
+
+Link to work: n/a
+
 ### Day 39: February 9, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
