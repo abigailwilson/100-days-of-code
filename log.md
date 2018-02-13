@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 12, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: I have solved the Symmetric Difference challenge! She ain't pretty but she works like a charm! I used a nested .forEach methods on the arrays which I suspect is wildly inefficient. But it works!
+
+Link to work: n/a
+
+### Day 41: February 11, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Ended up getting stuck on the Code Wars challenge. Gah! Managed to solve it and then puzzled at the Symmetric Difference challenge again with little progress.
+
+Link to work: n/a
+
 ### Day 40: February 10, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
