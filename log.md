@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 43: February 13, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Started working on the next algorithm challenge - a cash register that gives exact change. Yeesh.
+
+Link to work: n/a
+
 ### Day 42: February 12, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
