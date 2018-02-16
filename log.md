@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 43: February 14, 2018
+### Day 45: February 15, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Still working on that cash register. Found a silly error that prevented my for loop from every starting. 
+
+Link to work: n/a
+
+### Day 44: February 14, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
