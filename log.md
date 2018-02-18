@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 46: February 16, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Still sick a bit foggy, but continued working on the cash register challenge. 
+
+Link to work: n/a
+
+### Day 46: February 16, 2018
+
+Today's Progress: Nill!
+
+Thoughts: Sick sick sick. Ended up with a bad fever and got no coding done. :( 
+
+Link to work: n/a
+
 ### Day 45: February 15, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
