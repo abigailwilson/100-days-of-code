@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 49: February 19, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Working on the cash register again. Had to go back and redo my code line by line as it was not happy looping through a multi-dimensional array and accessing the inner data each time with something like currency[i][1].
+
+Link to work: n/a
+
 ### Day 48: February 18, 2018
 
 Today's Progress: CodeWars Challenges.
