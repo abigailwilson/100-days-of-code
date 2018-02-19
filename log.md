@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 46: February 16, 2018
+### Day 48: February 18, 2018
+
+Today's Progress: CodeWars Challenges.
+
+Thoughts: Sick foggy brain. Completed a 7kyu and 6 kyu CodeWars challenge instead of continuing on the FCC cash register challenge.
+
+Link to work: n/a
+
+### Day 47: February 17, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
