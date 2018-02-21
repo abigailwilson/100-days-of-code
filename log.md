@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 50: February 20, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Progress on the cash register - now passing 5/7 tests! And fixed my undefined object problem!
+
+Link to work: n/a
+
 ### Day 49: February 19, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
