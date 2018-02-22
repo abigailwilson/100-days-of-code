@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 51: February 21, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Rewrote part of the cash register code to simplify, but still  haven't solved. :(
+
+Link to work: n/a
+
 ### Day 50: February 20, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
