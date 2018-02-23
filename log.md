@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 52: February 22, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: The cash register is very close. I am off by $0.01 on the last test - penny rounding issue!
+
+Link to work: n/a
+
 ### Day 51: February 21, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
