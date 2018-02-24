@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 53: February 23, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Took a break from the cash register! It is passing 6/7 tests and everything is right except that last $0.01! Worked on the Inventory Update challnege instead.
+
+Link to work: n/a
+
 ### Day 52: February 22, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
