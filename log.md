@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 54: February 24, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Completed the Inventory Update challenge! Needed a bit of help getting the syntax correct on the sort function, but was able to complete. Now working on the "No Repeats" challenge.
+
+Link to work: n/a
+
 ### Day 53: February 23, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
-Thoughts: Took a break from the cash register! It is passing 6/7 tests and everything is right except that last $0.01! Worked on the Inventory Update challnege instead.
+Thoughts: Took a break from the cash register! It is passing 6/7 tests and everything is right except that last $0.01! Worked on the Inventory Update challenge instead.
 
 Link to work: n/a
 
