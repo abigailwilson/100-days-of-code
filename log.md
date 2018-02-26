@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 55: February 25, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Super tired from camp, but completed the "No Repeats Challenge" by cobbling together a bunch of code from Stack Overflow, including: Heap's Algorithm and matching repeating consequetive characters with RegEx's.
+
+Link to work: n/a
+
 ### Day 54: February 24, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
-Completed the Inventory Update challenge! Needed a bit of help getting the syntax correct on the sort function, but was able to complete. Now working on the "No Repeats" challenge.
+Thoughts: Completed the Inventory Update challenge! Needed a bit of help getting the syntax correct on the sort function, but was able to complete. Now working on the "No Repeats" challenge.
 
 Link to work: n/a
 
