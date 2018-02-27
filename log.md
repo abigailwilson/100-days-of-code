@@ -4,6 +4,14 @@
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
+Thoughts: Making up for lost time! Completed 2 more advanced algorithm challenges! One focused on OOP and the other on math functions.
+
+Link to work: n/a
+
+### Day 55: February 25, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
 Thoughts: Super tired from camp, but completed the "No Repeats Challenge" by cobbling together a bunch of code from Stack Overflow, including: Heap's Algorithm and matching repeating consequetive characters with RegEx's.
 
 Link to work: n/a
