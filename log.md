@@ -4,6 +4,15 @@
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
+Thoughts: Working on the Pairwise challenge. Also did a job shadow with a developper at my company today. 
+
+Link to work: n/a
+
+
+### Day 55: February 25, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
 Thoughts: Making up for lost time! Completed 2 more advanced algorithm challenges! One focused on OOP and the other on math functions.
 
 Link to work: n/a
