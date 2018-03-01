@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 55: February 25, 2018
+### Day 58: February 28, 2018
+
+Today's Progress: Continued advanced FCC algorithm challenges.
+
+Thoughts: Working on the Pairwise challenge - got most of the tests working, but still a few that I cannot figure out!
+
+Link to work: n/a
+
+### Day 57: February 27, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
@@ -9,7 +17,7 @@ Thoughts: Working on the Pairwise challenge. Also did a job shadow with a develo
 Link to work: n/a
 
 
-### Day 55: February 25, 2018
+### Day 56: February 26, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
 
