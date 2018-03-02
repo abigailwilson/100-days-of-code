@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 59: March 1, 2018
+
+Today's Progress: Finished advanced FCC algorithm challenges.
+
+Thoughts: Well, almost! Completed the Pairwise challenge, then revisted the Cash Register which was failing one final test on a difference of $0.01. Determined it was due to JavaScript's decimal rounding issue, but no brain power to trouble-shoot! Started first advanced project- Javascript calculator.
+
+Link to work: n/a
+
 ### Day 58: February 28, 2018
 
 Today's Progress: Continued advanced FCC algorithm challenges.
