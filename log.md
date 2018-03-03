@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 2, 2018
+
+Today's Progress: Working on Javascript Calculator Project.
+
+Thoughts: Did about 2 hours and got it all nicely formatted with HTML and CSS. Set up all the buttons and fields and it's looking great! Tested that everything stays aligned on different screen sizes too! Now the hard part: making it function!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
+
 ### Day 59: March 1, 2018
 
 Today's Progress: Finished advanced FCC algorithm challenges.
