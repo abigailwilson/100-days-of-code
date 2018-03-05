@@ -4,6 +4,14 @@
 
 Today's Progress: Working on Javascript Calculator Project.
 
+Thoughts: The calculator is starting to work quite well! I looked at using the eval() method to evaluate the string containing the calculation into a result, but learned this had a number of issues and security flaws. Ended up importing the math.js library which works very well with proper BEDMAS. Just a few bugs to solve now with how numbers are displaying during the lifecycle of the calculation.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
+
+### Day 61: March 3, 2018
+
+Today's Progress: Working on Javascript Calculator Project.
+
 Thoughts: Started getting the code to function: the numbers now input into the screen and the clear button works. I have another smaller field that will show previews of the calculation formula.
 
 Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
