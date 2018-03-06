@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 61: March 3, 2018
+
+Today's Progress: Working on Javascript Calculator Project.
+
+Thoughts: My list of bugs is expanding, gah! I've found at least four more issues (input length exceeding field, multiple decimals points in numbers, multiple operations) that I've logged and have been working on.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
+
 ### Day 61: March 3, 2018
 
 Today's Progress: Working on Javascript Calculator Project.
