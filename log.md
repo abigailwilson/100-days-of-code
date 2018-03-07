@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
 
-### Day 61: March 3, 2018
+### Day 64: March 6, 2018
+
+Today's Progress: Working on Javascript Calculator Project.
+
+Thoughts: Bug squashing! I have rewritten and simplified a lot of code and am no longer previewing the calculation that is input. It is a simplier calculator, but problems are getting solved. 
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
+
+### Day 63: March 5, 2018
 
 Today's Progress: Working on Javascript Calculator Project.
 
@@ -9,7 +17,7 @@ Thoughts: My list of bugs is expanding, gah! I've found at least four more issue
 
 Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
 
-### Day 61: March 3, 2018
+### Day 62: March 4, 2018
 
 Today's Progress: Working on Javascript Calculator Project.
 
