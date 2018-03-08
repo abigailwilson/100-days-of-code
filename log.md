@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 65: March 7, 2018
+
+Today's Progress: Working on Javascript Calculator Project.
+
+Thoughts: The JavaScript Calulator is complete! Well, I've fixed all my bugs and sent it the project to a friend for further testing. Feeling good, but we'll see how it goes!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
 
 ### Day 64: March 6, 2018
 
