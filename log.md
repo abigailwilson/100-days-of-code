@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 67: March 9, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: Got the UI laid out and starting working on the Javscript timer. I can get it to do a coundown from a future date, but need it to countdown just a set amount of minutes!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
+
+### Day 66: March 8, 2018
+
+Today's Progress: Working on Javascript Calculator Project and started Pomodoro Clock.
+
+Thoughts: More bugs were discovered in the calculator! I fixed the worst of these.. then have kind of called it done! Started working on the Pomodoro Clock app.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/vdPJBa">Javascript Calculator</a>
+
+
 ### Day 65: March 7, 2018
 
 Today's Progress: Working on Javascript Calculator Project.
