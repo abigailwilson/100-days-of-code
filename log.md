@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 68: March 10, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: Have the 25 minute countdown working now, but trying to get it to start when a button is pushed. Also adding sliders so the user can change the length of the session. 
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
 ### Day 67: March 9, 2018
 
 Today's Progress: Working on the Pomodoro Clock.
