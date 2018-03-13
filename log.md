@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 70: March 12, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: Still working on fixing the countdown code. I understand what the issue it, but I am honestly not sure how to correct it. I need a variable to calculate the time 25 minutes from the current time when the button is clicked, but it appears to be constantly increasing that time which is causing the count to go up rather than down. :(
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
+
+### Day 69: March 11, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: Rewrote the code to use getTime() method which is more precise than manually counting seconds (prone to slowness and inaccurancy). Now my countdown starts when the button is clicked, but it is counting up!! 
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
 ### Day 68: March 10, 2018
 
 Today's Progress: Working on the Pomodoro Clock.
