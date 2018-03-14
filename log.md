@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 71: March 13, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: A few small wins! The clock is now counting down and the sliders now can be used to change the displayed time. Making the play/pause button work for pauses now!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
+
 ### Day 70: March 12, 2018
 
 Today's Progress: Working on the Pomodoro Clock.
