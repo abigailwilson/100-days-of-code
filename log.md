@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 73: March 15, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: Trouble shooting the pause button Day 2. :(
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
+### Day 72: March 14, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: Trouble shooting the pause button Day 1. I need to connect the 'pause' button with the clearInterval function but am causing all kinds of glitches.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
 ### Day 71: March 13, 2018
 
 Today's Progress: Working on the Pomodoro Clock.
