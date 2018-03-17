@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 74: March 16, 2018
+
+Today's Progress: Working on the Pomodoro Clock.
+
+Thoughts: Removed the pause button. Now trying to get it to switch from pomodoro mode to break mode at the end of a session.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
 ### Day 73: March 15, 2018
 
 Today's Progress: Working on the Pomodoro Clock.
