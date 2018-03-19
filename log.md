@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 76: March 18, 2018
+
+Today's Progress: Finished the Pomodoro Clock.
+
+Thoughts: Did a full 2 hours to make up for yesterday! Got the "break mode" wording, added sound effects, get the "reset" button working with the sliders also adding reset functionality. Added a few UI tweaks. It is done like dinner!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
+### Day 75: March 17, 2018
+
+Today's Progress: No coding! :(
+
+Thoughts: Full day of not coding! Led a mountaineering club hike and did some visiting. Will make up for it tomorrow.
+
+Link to work: 
+
 ### Day 74: March 16, 2018
 
 Today's Progress: Working on the Pomodoro Clock.
