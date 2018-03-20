@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 77: March 19, 2018
+
+Today's Progress: Tweaking the Pomodoro Clock.
+
+Thoughts: Okay, so there was one thing that wasn't working on the Pomo Clock that I decided to tweak. My tweak ended up breaking a bunch of other things and now I am back to trouble shooting. -_-;
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/KoKoea">Pomodoro Clock</a>
+
 ### Day 76: March 18, 2018
 
 Today's Progress: Finished the Pomodoro Clock.
