@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 78: March 20, 2018
+
+Today's Progress: Started the Tic Tac Toe challenge.
+
+Thoughts: Fixed the last few bugs on the Pomo Clock - the classic case of forgettting to close a bracket and it ruining everything! Started the tic tac toe challenge...it's going to be hard!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
+
 ### Day 77: March 19, 2018
 
 Today's Progress: Tweaking the Pomodoro Clock.
