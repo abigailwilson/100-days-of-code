@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 79: March 21, 2018
+
+Today's Progress:  Working on the Tic Tac Toe challenge.
+
+Thoughts: Great progress! Got the buttons populating "X"s and started the "easy" mode functionality where the computer adds "O"s. Got a mechanism for the program to log and calculate available spaces!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
+
 ### Day 78: March 20, 2018
 
 Today's Progress: Started the Tic Tac Toe challenge.
