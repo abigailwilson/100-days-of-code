@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 80: March 22, 2018
+
+Today's Progress:  Working on the Tic Tac Toe challenge.
+
+Thoughts: More progress - added a time delay of 1 second before computer moves. Also got game to log computer moves, prevent same square being used twice, and start tracking winning combos. Still working on getting it to recognize a win!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
+
 ### Day 79: March 21, 2018
 
 Today's Progress:  Working on the Tic Tac Toe challenge.
