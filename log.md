@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 82: March 24, 2018
+
+Today's Progress:  Working on the Tic Tac Toe challenge.
+
+Thoughts: Missed yesterday so have to do 2 hours to make up:
+
+Hour 1 - got program to recognize a win and tie situation. Started coding a start and end screen. Got a 'reset' button working for the end of the game.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
 ### Day 80: March 22, 2018
 
 Today's Progress:  Working on the Tic Tac Toe challenge.
