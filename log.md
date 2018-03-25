@@ -9,6 +9,8 @@ Thoughts: Missed yesterday so have to do 2 hours to make up:
 
 Hour 1 - got program to recognize a win and tie situation. Started coding a start and end screen. Got a 'reset' button working for the end of the game.
 
+Hour 2 - got user to be able to select either an "X" or "O" gamepiece and for end screen to acknowledge who won. Start screen is working now.
+
 Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
 ### Day 80: March 22, 2018
 
