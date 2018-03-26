@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 83: March 25, 2018
+
+Today's Progress:  Working on the Tic Tac Toe challenge.
+
+Thoughts: Added cointoss function to determine who goes first (user or computer) along with a first turn screen. Started working on the hard computer functionality (will never loose)
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
+
 
 ### Day 82: March 24, 2018
 
@@ -12,6 +20,7 @@ Hour 1 - got program to recognize a win and tie situation. Started coding a star
 Hour 2 - got user to be able to select either an "X" or "O" gamepiece and for end screen to acknowledge who won. Start screen is working now.
 
 Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
+
 ### Day 80: March 22, 2018
 
 Today's Progress:  Working on the Tic Tac Toe challenge.
