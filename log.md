@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 84: March 26, 2018
+
+Today's Progress:  Working on the Tic Tac Toe challenge.
+
+Thoughts: Hard computer function is now working the majority of the time. There are a few instances where it stops halfway through the game which I need to troubleshoot. Also working on buttons to choose level.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
+
 
 ### Day 84: March 26, 2018
 
