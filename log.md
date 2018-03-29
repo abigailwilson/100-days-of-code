@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 84: March 26, 2018
+### Day 86: March 28, 2018
+
+Today's Progress:  Working on the Tic Tac Toe challenge.
+
+Thoughts: Fixed the hard computer function so it always plays, but it does not always win! Sometimes it chooses to block the user when it could have won. Did some reading into recursion and using the minimax algorithm to make it more intelligent...
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/LdWLVz">Tic Tac Toe</a>
+
+### Day 85: March 27, 2018
 
 Today's Progress:  Working on the Tic Tac Toe challenge.
 
