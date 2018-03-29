@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 87: March 28, 2018
+
+Today's Progress:  Started the Simon Game challenge.
+
+Thoughts: Decided to start the next challenge rather than perfect Tic Tac Toe since I have fulfilled all the user storie. Made a goal to finish the FCC Front End Dev certificate by Day 100!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
+
 ### Day 86: March 28, 2018
 
 Today's Progress:  Working on the Tic Tac Toe challenge.
