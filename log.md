@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 87: March 28, 2018
+### Day 88: March 30, 2018
+
+Today's Progress:  Continued working on the Simon Game Challenge.
+
+Thoughts: Got the computer playing function working along with a function to check input and determine whether the user has matched what the computer had. Not working quite right as it fails after the second round.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
+
+### Day 87: March 29, 2018
 
 Today's Progress:  Started the Simon Game challenge.
 
-Thoughts: Decided to start the next challenge rather than perfect Tic Tac Toe since I have fulfilled all the user storie. Made a goal to finish the FCC Front End Dev certificate by Day 100!
+Thoughts: Decided to start the next challenge rather than perfect Tic Tac Toe since I have fulfilled all the user stories. Made a goal to finish the FCC Front End Dev certificate by Day 100!
 
 Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
 
