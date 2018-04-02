@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 90: April 1, 2018
+
+Today's Progress:  Continued working on the Simon Game Challenge.
+
+Thoughts: UI improvements! Switched to rounded buttons with icons - looking much better!
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
+
+### Day 89: March 31, 2018
+
+Today's Progress:  Continued working on the Simon Game Challenge.
+
+Thoughts: Fixed the last issue and added an alert function for the end of the game.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
+
 ### Day 88: March 30, 2018
 
 Today's Progress:  Continued working on the Simon Game Challenge.
