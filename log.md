@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 90: April 2, 2018
+
+Today's Progress:  Continued working on the Simon Game Challenge.
+
+Thoughts: Working on user stories. Added toggle switch for game mode and doubled start button into a restart function. Improved look of the counter square.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
+
 ### Day 90: April 1, 2018
 
 Today's Progress:  Continued working on the Simon Game Challenge.
