@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 90: April 2, 2018
+### Day 91: April 3, 2018
+
+Today's Progress:  Continued working on the Simon Game Challenge.
+
+Thoughts: Implemented an easy and strict mode. Fixed the "checkInput" function so it fails user as soon as a wrong move is made in the sequence.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
+
+### Day 91: April 2, 2018
 
 Today's Progress:  Continued working on the Simon Game Challenge.
 
