@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 93: April 4, 2018
+
+Today's Progress:  Completed the Simon Game Challenge.
+
+Thoughts: Went back to fix the Exact Change challenge with the rounding issue. Ended up reviewing and adapting different solutions posted by other users to overcoming the rounding issue that was preventing test #5 from passing.
+
+Link to work: <a href="https://codepen.io/abbywilson/pen/jzzbbW">Simon Game</a>
+
 ### Day 92: April 3, 2018
 
 Today's Progress:  Continued working on the Simon Game Challenge.
