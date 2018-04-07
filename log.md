@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 95: April 6, 2018
+
+Today's Progress:  Nil
+
+Thoughts: No time to code! Will make up for it this weekend!
+
+Link to work: n/a
+
+### Day 94: April 5, 2018
+
+Today's Progress:  Reading up on minimax function.
+
+Thoughts: Wanting to perfect the Tic Tac Toe challenge with the hard computer function making the computer unbeatable. Reviewed tutorial.
+
+Link to work: n/a
+
 ### Day 93: April 4, 2018
 
 Today's Progress:  Completed the Simon Game Challenge.
