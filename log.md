@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 96: April 7, 2018
+
+Today's Progress:  Workin on Tic Tac Toe and NSF Fee Calculator
+
+Thoughts: Coninuted working on Tic Tac Toe with minimax algorithm but cannot get it to work. Started building an NSF Fee Calculator app as a side project for work. :)
+
+Link to work: n/a
+
 ### Day 95: April 6, 2018
 
 Today's Progress:  Nil
