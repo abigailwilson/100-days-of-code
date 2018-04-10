@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 98: April 8, 2018
+
+Today's Progress:  Working on NSF Fee Calculator.
+
+Thoughts: Got intial date field working with a function to check the representment timeline. 
+
+Link to work: n/a
+
 
 ### Day 97: April 8, 2018
 
