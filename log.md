@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 98: April 8, 2018
+### Day 100: April 11, 2018
+
+Today's Progress:  Working on NSF Fee Calculator.
+
+Thoughts: Day 100! Realized I have many date calculations to do, so added moment.js which should help but has a learning curve to start using. 
+
+Link to work: n/a
+
+### Day 99: April 10, 2018
+
+Today's Progress:  Working on NSF Fee Calculator.
+
+Thoughts: Added some warning messages if form cannot be used due to conditions. Wrote out user stories. 
+
+Link to work: n/a
+
+### Day 98: April 9, 2018
 
 Today's Progress:  Working on NSF Fee Calculator.
 
